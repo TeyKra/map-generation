@@ -1,4 +1,4 @@
-Here is the README translated into English:# Map Generator with Perlin Noise
+# Map Generator with Perlin Noise
 
 This Python project generates procedural maps using Perlin noise. The maps consist of different zones such as water, beaches, grass, mountains, and snow, each represented by distinct colors.
 
